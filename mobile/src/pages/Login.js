@@ -46,7 +46,7 @@ export default function Login({ navigation })
        <TextInput 
        autoCapitalize ='none'
        autoCorrect={false}
-       placeholder="Digite seu usário no GitHub" 
+       placeholder="Digite seu usuário no GitHub" 
        placeholderTextColor="#999"
        style={styles.input}
        value={user}
